@@ -1,0 +1,10 @@
+# Frontend dependencies and build output
+MultiPatternScanner_frontend/node_modules/
+MultiPatternScanner_frontend/dist/
+
+# Java build output
+MultiPatternScanner_DSA_Console_version/target/
+
+# IDE files
+.vscode/
+.idea/
